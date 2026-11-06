@@ -1,0 +1,1136 @@
+[
+ {
+  "start": 0.0,
+  "end": 1.44,
+  "words": [
+   {
+    "text": "ПРЕДСТАВЬТЕ.",
+    "start": 0.0,
+    "end": 0.84,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 1.46,
+  "end": 3.42,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 1.52,
+    "end": 1.82,
+    "accent": null
+   },
+   {
+    "text": "СМОТРИТЕ",
+    "start": 1.82,
+    "end": 2.3,
+    "accent": null
+   },
+   {
+    "text": "В",
+    "start": 2.3,
+    "end": 2.5,
+    "accent": null
+   },
+   {
+    "text": "ТЕЛЕФОН.",
+    "start": 2.5,
+    "end": 2.9,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 3.42,
+  "end": 4.66,
+  "words": [
+   {
+    "text": "ОБЫЧНЫЙ",
+    "start": 3.48,
+    "end": 4.04,
+    "accent": null
+   },
+   {
+    "text": "ДЕНЬ,",
+    "start": 4.04,
+    "end": 4.32,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 4.66,
+  "end": 6.38,
+  "words": [
+   {
+    "text": "ОБЫЧНАЯ",
+    "start": 4.72,
+    "end": 5.42,
+    "accent": null
+   },
+   {
+    "text": "ЖИЗНЬ.",
+    "start": 5.42,
+    "end": 5.78,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 6.4,
+  "end": 8.58,
+  "words": [
+   {
+    "text": "И",
+    "start": 6.46,
+    "end": 6.78,
+    "accent": null
+   },
+   {
+    "text": "ВДРУГ",
+    "start": 6.78,
+    "end": 7.1,
+    "accent": null
+   },
+   {
+    "text": "ЭКРАН",
+    "start": 7.1,
+    "end": 8.1,
+    "accent": null
+   },
+   {
+    "text": "ЗАГОРАЕТСЯ",
+    "start": 8.1,
+    "end": 8.64,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 8.58,
+  "end": 9.76,
+  "words": [
+   {
+    "text": "КРАСНЫМ.",
+    "start": 8.64,
+    "end": 9.16,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 9.82,
+  "end": 11.62,
+  "words": [
+   {
+    "text": "УГРОЗА",
+    "start": 9.88,
+    "end": 10.38,
+    "accent": "red"
+   },
+   {
+    "text": "ЯДЕРНОГО",
+    "start": 10.38,
+    "end": 10.9,
+    "accent": "red"
+   },
+   {
+    "text": "УДАРА.",
+    "start": 10.9,
+    "end": 11.24,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 11.62,
+  "end": 13.34,
+  "words": [
+   {
+    "text": "НЕМЕДЛЕННО",
+    "start": 11.68,
+    "end": 12.18,
+    "accent": null
+   },
+   {
+    "text": "УКРОЙТЕСЬ.",
+    "start": 12.18,
+    "end": 12.74,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 13.52,
+  "end": 16.5,
+  "words": [
+   {
+    "text": "У",
+    "start": 13.58,
+    "end": 13.76,
+    "accent": null
+   },
+   {
+    "text": "ВАС",
+    "start": 13.76,
+    "end": 13.9,
+    "accent": null
+   },
+   {
+    "text": "ОСТАЛОСЬ",
+    "start": 13.9,
+    "end": 14.4,
+    "accent": null
+   },
+   {
+    "text": "60",
+    "start": 14.4,
+    "end": 15.14,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 15.14,
+    "end": 15.9,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 17.04,
+  "end": 18.68,
+  "words": [
+   {
+    "text": "ПЕРВЫЕ",
+    "start": 17.1,
+    "end": 17.46,
+    "accent": null
+   },
+   {
+    "text": "10",
+    "start": 17.46,
+    "end": 17.78,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 17.78,
+    "end": 18.28,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 18.68,
+  "end": 20.38,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 18.74,
+    "end": 19.02,
+    "accent": null
+   },
+   {
+    "text": "СМОТРИТЕ",
+    "start": 19.02,
+    "end": 19.44,
+    "accent": null
+   },
+   {
+    "text": "НА",
+    "start": 19.44,
+    "end": 19.7,
+    "accent": null
+   },
+   {
+    "text": "НЕБО.",
+    "start": 19.7,
+    "end": 20.0,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 20.38,
+  "end": 22.1,
+  "words": [
+   {
+    "text": "ЛЮДИ",
+    "start": 20.44,
+    "end": 20.7,
+    "accent": null
+   },
+   {
+    "text": "ВОКРУГ",
+    "start": 20.7,
+    "end": 20.96,
+    "accent": null
+   },
+   {
+    "text": "ОСТАНАВЛИВАЮТСЯ.",
+    "start": 20.96,
+    "end": 21.9,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 22.1,
+  "end": 23.24,
+  "words": [
+   {
+    "text": "КТО-ТО",
+    "start": 22.16,
+    "end": 22.44,
+    "accent": null
+   },
+   {
+    "text": "СМЕЁТСЯ.",
+    "start": 22.44,
+    "end": 22.88,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 23.24,
+  "end": 24.68,
+  "words": [
+   {
+    "text": "КТО-ТО",
+    "start": 23.3,
+    "end": 23.6,
+    "accent": null
+   },
+   {
+    "text": "НАЧИНАЕТ",
+    "start": 23.6,
+    "end": 24.06,
+    "accent": null
+   },
+   {
+    "text": "БЕЖАТЬ.",
+    "start": 24.06,
+    "end": 24.5,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 24.68,
+  "end": 25.94,
+  "words": [
+   {
+    "text": "НО",
+    "start": 24.74,
+    "end": 24.92,
+    "accent": null
+   },
+   {
+    "text": "ВЫ",
+    "start": 24.92,
+    "end": 25.06,
+    "accent": null
+   },
+   {
+    "text": "ПОНИМАЕТЕ,",
+    "start": 25.06,
+    "end": 25.68,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 25.94,
+  "end": 28.54,
+  "words": [
+   {
+    "text": "ЭТО",
+    "start": 26.0,
+    "end": 26.3,
+    "accent": null
+   },
+   {
+    "text": "НЕ",
+    "start": 26.3,
+    "end": 26.83,
+    "accent": "red"
+   },
+   {
+    "text": "УЧЕБНАЯ",
+    "start": 26.83,
+    "end": 27.36,
+    "accent": "red"
+   },
+   {
+    "text": "ТРЕВОГА.",
+    "start": 27.36,
+    "end": 27.94,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 29.0,
+  "end": 30.76,
+  "words": [
+   {
+    "text": "50",
+    "start": 29.06,
+    "end": 29.46,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 29.46,
+    "end": 30.38,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 30.76,
+  "end": 32.46,
+  "words": [
+   {
+    "text": "ВАШЕ",
+    "start": 30.82,
+    "end": 31.18,
+    "accent": null
+   },
+   {
+    "text": "СЕРДЦЕ",
+    "start": 31.18,
+    "end": 31.52,
+    "accent": "yellow"
+   },
+   {
+    "text": "КОЛОТИТСЯ.",
+    "start": 31.52,
+    "end": 32.08,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 32.46,
+  "end": 34.3,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 32.52,
+    "end": 32.72,
+    "accent": null
+   },
+   {
+    "text": "ХОТИТЕ",
+    "start": 32.72,
+    "end": 33.02,
+    "accent": null
+   },
+   {
+    "text": "ПОЗВОНИТЬ",
+    "start": 33.02,
+    "end": 33.56,
+    "accent": null
+   },
+   {
+    "text": "БЛИЗКИМ,",
+    "start": 33.56,
+    "end": 34.08,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 34.3,
+  "end": 36.26,
+  "words": [
+   {
+    "text": "НО",
+    "start": 34.36,
+    "end": 34.64,
+    "accent": null
+   },
+   {
+    "text": "СЕЙЧАС",
+    "start": 34.64,
+    "end": 35.06,
+    "accent": null
+   },
+   {
+    "text": "КАЖДАЯ",
+    "start": 35.06,
+    "end": 35.88,
+    "accent": null
+   },
+   {
+    "text": "СЕКУНДА",
+    "start": 35.88,
+    "end": 36.32,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 36.26,
+  "end": 37.76,
+  "words": [
+   {
+    "text": "ИМЕЕТ",
+    "start": 36.32,
+    "end": 36.58,
+    "accent": null
+   },
+   {
+    "text": "ЗНАЧЕНИЕ.",
+    "start": 36.58,
+    "end": 37.18,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 37.76,
+  "end": 39.8,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 37.82,
+    "end": 38.06,
+    "accent": null
+   },
+   {
+    "text": "ИЩЕТЕ",
+    "start": 38.06,
+    "end": 38.6,
+    "accent": null
+   },
+   {
+    "text": "УКРЫТИЕ.",
+    "start": 38.6,
+    "end": 39.2,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 40.14,
+  "end": 41.84,
+  "words": [
+   {
+    "text": "40",
+    "start": 40.2,
+    "end": 40.72,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 40.72,
+    "end": 41.26,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 41.84,
+  "end": 43.14,
+  "words": [
+   {
+    "text": "ВПЕРЕДИ",
+    "start": 41.9,
+    "end": 42.32,
+    "accent": null
+   },
+   {
+    "text": "ЗДАНИЕ.",
+    "start": 42.32,
+    "end": 42.78,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 43.14,
+  "end": 44.4,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 43.2,
+    "end": 43.28,
+    "accent": null
+   },
+   {
+    "text": "ЗАБЕГАЕТЕ",
+    "start": 43.28,
+    "end": 43.84,
+    "accent": null
+   },
+   {
+    "text": "ВНУТРЬ,",
+    "start": 43.84,
+    "end": 44.3,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 44.4,
+  "end": 45.92,
+  "words": [
+   {
+    "text": "УХОДИТЕ",
+    "start": 44.46,
+    "end": 44.84,
+    "accent": null
+   },
+   {
+    "text": "ПОДАЛЬШЕ",
+    "start": 44.84,
+    "end": 45.32,
+    "accent": null
+   },
+   {
+    "text": "ОТ",
+    "start": 45.32,
+    "end": 45.62,
+    "accent": null
+   },
+   {
+    "text": "ОКОН",
+    "start": 45.62,
+    "end": 45.98,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 45.92,
+  "end": 47.54,
+  "words": [
+   {
+    "text": "И",
+    "start": 45.98,
+    "end": 46.22,
+    "accent": null
+   },
+   {
+    "text": "НАРУЖНЫХ",
+    "start": 46.22,
+    "end": 46.68,
+    "accent": null
+   },
+   {
+    "text": "СТЕН.",
+    "start": 46.68,
+    "end": 46.94,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 47.92,
+  "end": 49.66,
+  "words": [
+   {
+    "text": "30",
+    "start": 47.98,
+    "end": 48.56,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 48.56,
+    "end": 49.06,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 49.76,
+  "end": 50.78,
+  "words": [
+   {
+    "text": "ТЕЛЕФОН",
+    "start": 49.82,
+    "end": 50.22,
+    "accent": null
+   },
+   {
+    "text": "ВИБРИРУЕТ,",
+    "start": 50.22,
+    "end": 50.84,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 50.78,
+  "end": 52.3,
+  "words": [
+   {
+    "text": "СООБЩЕНИЕ",
+    "start": 50.84,
+    "end": 51.56,
+    "accent": null
+   },
+   {
+    "text": "ОТ",
+    "start": 51.56,
+    "end": 51.74,
+    "accent": null
+   },
+   {
+    "text": "МАМЫ.",
+    "start": 51.74,
+    "end": 52.14,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 52.3,
+  "end": 53.66,
+  "words": [
+   {
+    "text": "ТЫ",
+    "start": 52.36,
+    "end": 52.52,
+    "accent": null
+   },
+   {
+    "text": "В",
+    "start": 52.52,
+    "end": 52.62,
+    "accent": null
+   },
+   {
+    "text": "ПОРЯДКЕ?",
+    "start": 52.62,
+    "end": 53.06,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 53.66,
+  "end": 55.8,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 53.72,
+    "end": 54.02,
+    "accent": null
+   },
+   {
+    "text": "НАЧИНАЕТЕ",
+    "start": 54.02,
+    "end": 54.62,
+    "accent": null
+   },
+   {
+    "text": "ПЕЧАТАТЬ",
+    "start": 54.62,
+    "end": 55.14,
+    "accent": null
+   },
+   {
+    "text": "ОТВЕТ,",
+    "start": 55.14,
+    "end": 55.46,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 55.8,
+  "end": 57.42,
+  "words": [
+   {
+    "text": "НО",
+    "start": 55.86,
+    "end": 55.98,
+    "accent": null
+   },
+   {
+    "text": "РУКИ",
+    "start": 55.98,
+    "end": 56.28,
+    "accent": null
+   },
+   {
+    "text": "ДРОЖАТ.",
+    "start": 56.28,
+    "end": 56.82,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 57.6,
+  "end": 59.32,
+  "words": [
+   {
+    "text": "20",
+    "start": 57.66,
+    "end": 58.16,
+    "accent": "red"
+   },
+   {
+    "text": "СЕКУНД.",
+    "start": 58.16,
+    "end": 58.72,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 59.32,
+  "end": 61.1,
+  "words": [
+   {
+    "text": "ЗА",
+    "start": 59.38,
+    "end": 59.56,
+    "accent": null
+   },
+   {
+    "text": "СТЕНАМИ",
+    "start": 59.56,
+    "end": 59.96,
+    "accent": null
+   },
+   {
+    "text": "СЛЫШНЫ",
+    "start": 59.96,
+    "end": 60.38,
+    "accent": null
+   },
+   {
+    "text": "СИРЕНЫ.",
+    "start": 60.38,
+    "end": 60.8,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 61.1,
+  "end": 63.3,
+  "words": [
+   {
+    "text": "ГОРОД",
+    "start": 61.16,
+    "end": 61.48,
+    "accent": null
+   },
+   {
+    "text": "СЛОВНО",
+    "start": 61.48,
+    "end": 61.92,
+    "accent": null
+   },
+   {
+    "text": "ПЕРЕСТАЛ",
+    "start": 61.92,
+    "end": 62.56,
+    "accent": null
+   },
+   {
+    "text": "ДЫШАТЬ.",
+    "start": 62.56,
+    "end": 62.98,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 63.3,
+  "end": 65.4,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 63.36,
+    "end": 63.54,
+    "accent": null
+   },
+   {
+    "text": "ОПУСКАЕТЕСЬ",
+    "start": 63.54,
+    "end": 64.42,
+    "accent": null
+   },
+   {
+    "text": "НА",
+    "start": 64.42,
+    "end": 64.64,
+    "accent": null
+   },
+   {
+    "text": "ПОЛ.",
+    "start": 64.64,
+    "end": 64.8,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 65.9,
+  "end": 66.98,
+  "words": [
+   {
+    "text": "10,",
+    "start": 65.96,
+    "end": 66.38,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 67.04,
+  "end": 68.42,
+  "words": [
+   {
+    "text": "9,",
+    "start": 67.1,
+    "end": 67.82,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 68.54,
+  "end": 69.9,
+  "words": [
+   {
+    "text": "8.",
+    "start": 68.6,
+    "end": 69.3,
+    "accent": "red"
+   }
+  ]
+ },
+ {
+  "start": 69.98,
+  "end": 71.06,
+  "words": [
+   {
+    "text": "ВЫ",
+    "start": 70.04,
+    "end": 70.22,
+    "accent": null
+   },
+   {
+    "text": "ЗАКРЫВАЕТЕ",
+    "start": 70.22,
+    "end": 70.76,
+    "accent": null
+   },
+   {
+    "text": "ГЛАЗА",
+    "start": 70.76,
+    "end": 71.12,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 71.06,
+  "end": 74.24,
+  "words": [
+   {
+    "text": "И",
+    "start": 71.12,
+    "end": 71.78,
+    "accent": null
+   },
+   {
+    "text": "ДУМАЕТЕ",
+    "start": 71.78,
+    "end": 72.44,
+    "accent": null
+   },
+   {
+    "text": "ТОЛЬКО",
+    "start": 72.44,
+    "end": 73.1,
+    "accent": null
+   },
+   {
+    "text": "ОБ",
+    "start": 73.1,
+    "end": 73.46,
+    "accent": null
+   },
+   {
+    "text": "ОДНОМ.",
+    "start": 73.46,
+    "end": 73.74,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 74.24,
+  "end": 75.74,
+  "words": [
+   {
+    "text": "УСПЕЮТ",
+    "start": 74.3,
+    "end": 74.82,
+    "accent": null
+   },
+   {
+    "text": "ЛИ",
+    "start": 74.82,
+    "end": 75.0,
+    "accent": null
+   },
+   {
+    "text": "ВАШИ",
+    "start": 75.0,
+    "end": 75.24,
+    "accent": null
+   },
+   {
+    "text": "БЛИЗКИЕ",
+    "start": 75.24,
+    "end": 75.8,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 75.74,
+  "end": 77.78,
+  "words": [
+   {
+    "text": "НАЙТИ",
+    "start": 75.8,
+    "end": 76.42,
+    "accent": null
+   },
+   {
+    "text": "УКРЫТИЕ?",
+    "start": 76.42,
+    "end": 77.18,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 78.1,
+  "end": 80.16,
+  "words": [
+   {
+    "text": "А",
+    "start": 78.16,
+    "end": 78.7,
+    "accent": null
+   },
+   {
+    "text": "ТЕПЕРЬ",
+    "start": 78.7,
+    "end": 78.92,
+    "accent": null
+   },
+   {
+    "text": "ОТВЕТЬТЕ.",
+    "start": 78.92,
+    "end": 79.58,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 80.16,
+  "end": 81.44,
+  "words": [
+   {
+    "text": "ЕСЛИ",
+    "start": 80.22,
+    "end": 80.6,
+    "accent": null
+   },
+   {
+    "text": "БЫ",
+    "start": 80.6,
+    "end": 80.86,
+    "accent": null
+   },
+   {
+    "text": "У",
+    "start": 80.86,
+    "end": 81.16,
+    "accent": null
+   },
+   {
+    "text": "ВАС",
+    "start": 81.16,
+    "end": 81.5,
+    "accent": null
+   }
+  ]
+ },
+ {
+  "start": 81.44,
+  "end": 84.6,
+  "words": [
+   {
+    "text": "ДЕЙСТВИТЕЛЬНО",
+    "start": 81.5,
+    "end": 82.32,
+    "accent": null
+   },
+   {
+    "text": "ОСТАВАЛАСЬ",
+    "start": 82.32,
+    "end": 83.14,
+    "accent": null
+   },
+   {
+    "text": "ОДНА",
+    "start": 83.14,
+    "end": 83.4,
+    "accent": "yellow"
+   },
+   {
+    "text": "МИНУТА,",
+    "start": 83.4,
+    "end": 84.02,
+    "accent": "yellow"
+   }
+  ]
+ },
+ {
+  "start": 84.6,
+  "end": 86.26,
+  "words": [
+   {
+    "text": "ЧТО",
+    "start": 84.66,
+    "end": 85.06,
+    "accent": null
+   },
+   {
+    "text": "БЫ",
+    "start": 85.06,
+    "end": 85.24,
+    "accent": null
+   },
+   {
+    "text": "ВЫ",
+    "start": 85.24,
+    "end": 85.36,
+    "accent": null
+   },
+   {
+    "text": "СДЕЛАЛИ?",
+    "start": 85.36,
+    "end": 85.66,
+    "accent": null
+   }
+  ]
+ }
+]
